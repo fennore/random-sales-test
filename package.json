@@ -1,0 +1,13 @@
+{
+    "name": "RandomSalesTest",
+    "version": "1.0.0",
+    "type": "module",
+    "contributors": [],
+    "dependencies": {
+        "lodash.sample": "*",
+        "uuid": "*"
+    },
+    "scripts": {
+        "start": "node main.js"
+    }
+}
